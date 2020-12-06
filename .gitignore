@@ -1,0 +1,5 @@
+.idea/
+venv/
+__pycache__/
+anaconda/.ipynb_checkpoints/
+test.py
